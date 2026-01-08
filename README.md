@@ -98,37 +98,37 @@ Open-source libraries making blockchain development accessible to everyone
 <tr>
 <td><a href="https://github.com/MeshJS/mesh"><b>Mesh</b></a></td>
 <td>TypeScript</td>
-<td>Web3 SDK for Cardano</td>
+<td>Open-source Web3 SDK for building applications on Cardano blockchain</td>
 <td><img src="https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/whisky"><b>Whisky</b></a></td>
 <td>Rust</td>
-<td>Transaction building & serialization</td>
+<td>Cardano transaction building, serialization and wallet management library</td>
 <td><img src="https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/vodka"><b>Vodka</b></a></td>
 <td>Aiken</td>
-<td>Smart contract utilities & testing</td>
+<td>Smart contract utilities, testing helpers and validation functions</td>
 <td><img src="https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/rum"><b>Rum</b></a></td>
 <td>Go</td>
-<td>Golang Cardano library</td>
+<td>Golang library for Cardano development, compatible with Mesh types</td>
 <td><img src="https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/gin"><b>Gin</b></a></td>
 <td>Python</td>
-<td>Python Cardano library</td>
+<td>Python library for Cardano development, compatible with Mesh types</td>
 <td><img src="https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/cardano-bar"><b>Cardano Bar</b></a></td>
 <td>Multi</td>
-<td>Cross-framework dev tools</td>
+<td>Cross-framework development tools and utilities for Cardano ecosystem</td>
 <td><img src="https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 </tbody>
