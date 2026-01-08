@@ -74,7 +74,7 @@ Infrastructure   Docker | Nix | GitHub Actions
 Instant order confirmation, zero-fee trading,
 API-first design powered by Hydra L2
 
-[Website](https://deltadefi.io) | [App](https://alpha-app.deltadefi.io) | [Docs](https://docs.deltadefi.io)
+[Website](https://deltadefi.io) | [App](https://app.deltadefi.io) | [Docs](https://docs.deltadefi.io)
 
 </td>
 <td align="center" width="50%">
