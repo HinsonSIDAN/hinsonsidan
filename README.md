@@ -125,6 +125,7 @@ development accessible to everyone
 
 [![Twitter](https://img.shields.io/badge/@HinsonSIDAN-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/HinsonSIDAN)
 [![DeltaDeFi](https://img.shields.io/badge/@DeltaDeFi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/DeltaDeFi)
+[![SIDAN Lab](https://img.shields.io/badge/@sidan__lab-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sidan_lab)
 [![GitHub](https://img.shields.io/badge/HinsonSIDAN-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HinsonSIDAN)
 [![Email](https://img.shields.io/badge/contact@deltadefi.io-00D4AA?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@deltadefi.io)
 
