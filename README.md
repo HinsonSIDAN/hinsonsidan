@@ -52,7 +52,7 @@ Infrastructure   Docker | GitHub Actions
 
 <h3>Organizations</h3>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%" valign="top">
 <br/>
@@ -85,7 +85,7 @@ Open-source libraries making blockchain<br/>development accessible to everyone
 
 <p><b>The Cardano Bar</b> — A complete toolkit for Cardano development</p>
 
-<table>
+<table width="100%">
 <thead>
 <tr>
 <th>Library</th>
