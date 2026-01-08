@@ -8,7 +8,7 @@
 
 [![Cardano Ambassador](https://img.shields.io/badge/Cardano-Ambassador-0033AD?style=flat-square&logo=cardano&logoColor=white)](https://cardano.org/ambassador/)
 [![DeltaDeFi](https://img.shields.io/badge/DeltaDeFi-Co--Founder-00D4AA?style=flat-square)](https://deltadefi.io)
-[![SIDAN Lab](https://img.shields.io/badge/SIDAN%20Lab-Founder-00B894?style=flat-square)](https://sidan.io)
+[![SIDAN Lab](https://img.shields.io/badge/SIDAN%20Lab-Co--Founder-00B894?style=flat-square)](https://sidan.io)
 
 <br/>
 
