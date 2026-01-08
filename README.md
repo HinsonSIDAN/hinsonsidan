@@ -12,10 +12,6 @@
 
 <hr/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <h3>About</h3>
 
 <p>CFA charterholder turned DeFi builder. Building next-gen trading infrastructure on Cardano.</p>
@@ -26,9 +22,6 @@
 <li>Draper University Alumni</li>
 <li>Hong Kong</li>
 </ul>
-
-</td>
-<td width="50%" valign="top">
 
 <h3>Tech Stack</h3>
 
@@ -43,10 +36,6 @@ Infrastructure   Docker | GitHub Actions
 <p>
 <img src="https://skillicons.dev/icons?i=rust,go,ts,python,haskell,react&theme=dark" height="32"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 <hr/>
 
