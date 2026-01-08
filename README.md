@@ -54,24 +54,24 @@ Infrastructure   Docker | GitHub Actions
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top">
 <br/>
 <a href="https://github.com/deltadefi-protocol"><img src="https://img.shields.io/badge/DeltaDeFi-Protocol-00D4AA?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
 <b>Cardano Trading Infrastructure</b>
 <br/><br/>
-Instant order confirmation, zero-fee trading,<br/>API-first design powered by Hydra L2
+Instant order confirmation, zero-fee trading, API-first design powered by Hydra L2
 <br/><br/>
 <a href="https://deltadefi.io">Website</a> | <a href="https://app.deltadefi.io">App</a> | <a href="https://docs.deltadefi.io">Docs</a>
 <br/><br/>
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top">
 <br/>
 <a href="https://github.com/sidan-lab"><img src="https://img.shields.io/badge/SIDAN-Lab-00B894?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
 <b>Cardano Developer Tooling</b>
 <br/><br/>
-Open-source libraries making blockchain<br/>development accessible to everyone
+Open-source libraries making blockchain development accessible to everyone
 <br/><br/>
 <a href="https://sidan.io">Website</a> | <a href="https://github.com/sidan-lab">GitHub</a>
 <br/><br/>
