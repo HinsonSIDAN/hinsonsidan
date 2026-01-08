@@ -117,6 +117,10 @@ development accessible to everyone
 </a>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HinsonSIDAN&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00B894&point=ffffff&area=true&area_color=00D4AA" width="100%"/>
+</p>
+
 ---
 
 <div align="center">
