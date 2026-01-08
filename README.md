@@ -108,20 +108,10 @@ development accessible to everyone
 
 ### Stats
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/HinsonSIDAN">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/HinsonSIDAN">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="100%"/>
-</a>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="56%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="42%"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HinsonSIDAN&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00B894&point=ffffff&area=true&area_color=00D4AA" width="100%"/>
