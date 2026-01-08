@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4AA,100:00B894&height=120&section=header"/>
+
 <div align="center">
 
 # Hinson Wong
@@ -100,32 +102,28 @@ development accessible to everyone
 
 | Library | Language | Description | |
 |---------|----------|-------------|---|
+| [**Mesh**](https://github.com/MeshJS/mesh) | TypeScript | Web3 SDK for Cardano | ![Stars](https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=00D4AA) |
 | [**Whisky**](https://github.com/sidan-lab/whisky) | Rust | Transaction building & serialization | ![Stars](https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA) |
 | [**Vodka**](https://github.com/sidan-lab/vodka) | Aiken | Smart contract utilities & testing | ![Stars](https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA) |
 | [**Rum**](https://github.com/sidan-lab/rum) | Go | Golang Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA) |
 | [**Gin**](https://github.com/sidan-lab/gin) | Python | Python Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA) |
 | [**Cardano Bar**](https://github.com/sidan-lab/cardano-bar) | Multi | Cross-framework dev tools | ![Stars](https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA) |
 
-<details>
-<summary><b>More Projects</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [MeshJS/mesh](https://github.com/MeshJS/mesh) | Core contributor - Web3 SDK for Cardano |
-| [deltadefi-scripts](https://github.com/deltadefi-protocol/deltadefi-scripts) | Aiken smart contracts for DeltaDeFi |
-| [python-sdk](https://github.com/deltadefi-protocol/python-sdk) | DeltaDeFi Python SDK |
-| [rust-sdk](https://github.com/deltadefi-protocol/rust-sdk) | DeltaDeFi Rust SDK |
-
-</details>
-
 ---
 
 ### Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D4AA&icon_color=00B894&text_color=888888&hide_title=true&hide_rank=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&hide_border=true&bg_color=00000000&title_color=00D4AA&text_color=888888&hide_title=true" height="150"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=default&hide_border=true&title_color=00D4AA&icon_color=00B894"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=default&hide_border=true&title_color=00D4AA"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" height="165"/>
+</picture>
 </p>
 
 ---
@@ -144,3 +142,5 @@ development accessible to everyone
 *"Open source is not just about code — it's about building communities."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,50:00D4AA,100:0d1117&height=80&section=footer"/>
