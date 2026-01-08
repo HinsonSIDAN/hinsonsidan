@@ -50,7 +50,7 @@ Infrastructure   Docker | Nix | GitHub Actions
 ```
 
 <p>
-<img src="https://skillicons.dev/icons?i=rust,go,ts,python,haskell,react&theme=light" height="32"/>
+<img src="https://skillicons.dev/icons?i=rust,go,ts,python,haskell,react&theme=dark" height="32"/>
 </p>
 
 </td>
@@ -102,28 +102,20 @@ development accessible to everyone
 
 | Library | Language | Description | |
 |---------|----------|-------------|---|
-| [**Mesh**](https://github.com/MeshJS/mesh) | TypeScript | Web3 SDK for Cardano | ![Stars](https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=00D4AA) |
-| [**Whisky**](https://github.com/sidan-lab/whisky) | Rust | Transaction building & serialization | ![Stars](https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA) |
-| [**Vodka**](https://github.com/sidan-lab/vodka) | Aiken | Smart contract utilities & testing | ![Stars](https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA) |
-| [**Rum**](https://github.com/sidan-lab/rum) | Go | Golang Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA) |
-| [**Gin**](https://github.com/sidan-lab/gin) | Python | Python Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA) |
-| [**Cardano Bar**](https://github.com/sidan-lab/cardano-bar) | Multi | Cross-framework dev tools | ![Stars](https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA) |
+| [**Mesh**](https://github.com/MeshJS/mesh) | TypeScript | Web3 SDK for Cardano | ![Stars](https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=00D4AA&labelColor=0d1117) |
+| [**Whisky**](https://github.com/sidan-lab/whisky) | Rust | Transaction building & serialization | ![Stars](https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA&labelColor=0d1117) |
+| [**Vodka**](https://github.com/sidan-lab/vodka) | Aiken | Smart contract utilities & testing | ![Stars](https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA&labelColor=0d1117) |
+| [**Rum**](https://github.com/sidan-lab/rum) | Go | Golang Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA&labelColor=0d1117) |
+| [**Gin**](https://github.com/sidan-lab/gin) | Python | Python Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA&labelColor=0d1117) |
+| [**Cardano Bar**](https://github.com/sidan-lab/cardano-bar) | Multi | Cross-framework dev tools | ![Stars](https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA&labelColor=0d1117) |
 
 ---
 
 ### Stats
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=default&hide_border=true&title_color=00D4AA&icon_color=00B894"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=default&hide_border=true&title_color=00D4AA"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" height="165"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" height="165"/>
 </p>
 
 ---
