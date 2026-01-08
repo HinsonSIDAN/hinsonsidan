@@ -114,8 +114,12 @@ development accessible to everyone
 ### Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" height="165"/>
+<a href="https://github.com/HinsonSIDAN">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+</a>
+<a href="https://github.com/HinsonSIDAN">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" height="165"/>
+</a>
 </p>
 
 ---
