@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4AA,100:00B894&height=180&section=header&text=Hinson%20Wong&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=fadeIn&fontFamily=Orbitron&desc=Cardano%20Ambassador%20|%20DeFi%20Builder%20|%20Open%20Source%20Developer&descSize=16&descAlignY=70&descColor=c9d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,60:00D4AA,100:00B894&height=200&section=header&text=Hinson%20Wong&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&fontFamily=Orbitron&desc=Cardano%20Ambassador%20|%20DeFi%20Builder%20|%20Open%20Source%20Developer&descSize=16&descAlignY=55&descColor=c9d1d9"/>
 
 <div align="center">
 
