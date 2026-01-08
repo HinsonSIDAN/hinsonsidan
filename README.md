@@ -52,6 +52,7 @@ Infrastructure   Docker | GitHub Actions
 
 <h3>Organizations</h3>
 
+<img width="100%" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
 <table width="100%">
 <tr>
 <td align="center" width="50%" valign="top">
@@ -85,6 +86,7 @@ Open-source libraries making blockchain<br/>development accessible to everyone
 
 <p><b>The Cardano Bar</b> — A complete toolkit for Cardano development</p>
 
+<img width="100%" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
 <table width="100%">
 <thead>
 <tr>
@@ -139,7 +141,7 @@ Open-source libraries making blockchain<br/>development accessible to everyone
 <h3>Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="56%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="57.5%"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="42%"/>
 </p>
 
