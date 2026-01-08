@@ -24,17 +24,12 @@
 
 ### About
 
-Building the future of decentralized finance on Cardano through open-source tooling and innovative protocol design.
+CFA charterholder turned DeFi builder. Building next-gen trading infrastructure on Cardano.
 
-**Current Focus:**
-- High-frequency trading infrastructure via Hydra L2
-- Multi-language SDKs for Cardano development
-- Developer education and ecosystem growth
-
-**Background:**
-- Plutus Pioneer Program Graduate
-- Cardano DRep (Governance Delegate)
-- Hong Kong-based builder
+- Co-founder at [DeltaDeFi](https://deltadefi.io) & [SIDAN Lab](https://sidan.io)
+- Cardano Ambassador & DRep
+- Draper University Alumni
+- Hong Kong
 
 </td>
 <td width="50%" valign="top">
