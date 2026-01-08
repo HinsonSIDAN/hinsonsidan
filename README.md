@@ -6,8 +6,6 @@
 <a href="https://deltadefi.io"><img src="https://img.shields.io/badge/DeltaDeFi-Co--Founder-00D4AA?style=flat-square" alt="DeltaDeFi Co-Founder"/></a>
 <a href="https://sidan.io"><img src="https://img.shields.io/badge/SIDAN%20Lab-Co--Founder-00B894?style=flat-square" alt="SIDAN Lab Co-Founder"/></a>
 
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Building+next-gen+DeFi+on+Cardano;Open+source+tools+for+blockchain+devs;Hydra-powered+trading+infrastructure" alt="Typing SVG" />
 
 </div>
@@ -56,35 +54,27 @@ Infrastructure   Docker | GitHub Actions
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-<a href="https://github.com/deltadefi-protocol">
-<img src="https://img.shields.io/badge/DeltaDeFi-Protocol-00D4AA?style=for-the-badge&logoColor=white" height="28"/>
-</a>
-
+<td align="center" width="50%" valign="top">
+<br/>
+<a href="https://github.com/deltadefi-protocol"><img src="https://img.shields.io/badge/DeltaDeFi-Protocol-00D4AA?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
-
 <b>Cardano Trading Infrastructure</b>
-
-<p>Instant order confirmation, zero-fee trading,<br/>API-first design powered by Hydra L2</p>
-
-<a href="https://deltadefi.io">Website</a> | <a href="https://app.deltadefi.io">App</a> | <a href="https://docs.deltadefi.io">Docs</a>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/sidan-lab">
-<img src="https://img.shields.io/badge/SIDAN-Lab-00B894?style=for-the-badge&logoColor=white" height="28"/>
-</a>
-
 <br/><br/>
-
+Instant order confirmation, zero-fee trading,<br/>API-first design powered by Hydra L2
+<br/><br/>
+<a href="https://deltadefi.io">Website</a> | <a href="https://app.deltadefi.io">App</a> | <a href="https://docs.deltadefi.io">Docs</a>
+<br/><br/>
+</td>
+<td align="center" width="50%" valign="top">
+<br/>
+<a href="https://github.com/sidan-lab"><img src="https://img.shields.io/badge/SIDAN-Lab-00B894?style=for-the-badge&logoColor=white" height="28"/></a>
+<br/><br/>
 <b>Cardano Developer Tooling</b>
-
-<p>Open-source libraries making blockchain<br/>development accessible to everyone</p>
-
+<br/><br/>
+Open-source libraries making blockchain<br/>development accessible to everyone
+<br/><br/>
 <a href="https://sidan.io">Website</a> | <a href="https://github.com/sidan-lab">GitHub</a>
-
+<br/><br/>
 </td>
 </tr>
 </table>
