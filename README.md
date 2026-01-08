@@ -42,11 +42,11 @@ Building the future of decentralized finance on Cardano through open-source tool
 ### Tech Stack
 
 ```
-Smart Contracts  Aiken | Plutus | Helios
+Smart Contracts  Aiken | Plutus
 Backend          Rust | Go | TypeScript
 Frontend         React | Next.js
 Blockchain       Cardano | Hydra L2
-Infrastructure   Docker | Nix | GitHub Actions
+Infrastructure   Docker | GitHub Actions
 ```
 
 <p>
