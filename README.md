@@ -1,100 +1,92 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hinson%20SIDAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20of%20DeFi%20on%20Cardano&descAlignY=55&descSize=18"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://cardano.org/ambassador/"><img src="https://img.shields.io/badge/Cardano-Ambassador-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNzUgMzQ2Ljc1Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAyLjgyIDEzMC40MmEzNi4wOCAzNi4wOCAwIDEgMSAzNi4wOC0zNi4wOCAzNi4xMiAzNi4xMiAwIDAgMS0zNi4wOCAzNi4wOHptMTY5LjM2IDBhMzYuMDggMzYuMDggMCAxIDEgMzYuMDgtMzYuMDggMzYuMTIgMzYuMTIgMCAwIDEtMzYuMDggMzYuMDh6bS0xNjkuMzYgODUuOTFhMzYuMDggMzYuMDggMCAxIDEgMzYuMDgtMzYuMDggMzYuMTIgMzYuMTIgMCAwIDEtMzYuMDggMzYuMDh6bTE2OS4zNiAwYTM2LjA4IDM2LjA4IDAgMSAxIDM2LjA4LTM2LjA4IDM2LjEyIDM2LjEyIDAgMCAxLTM2LjA4IDM2LjA4em0tODQuNjggNDIuOTZhMzYuMDggMzYuMDggMCAxIDEgMzYuMDgtMzYuMDggMzYuMTIgMzYuMTIgMCAwIDEtMzYuMDggMzYuMDh6Ii8+PC9zdmc+&logoColor=white" alt="Cardano Ambassador"/></a>
-  <a href="https://github.com/deltadefi-protocol"><img src="https://img.shields.io/badge/DeltaDeFi-Co--Founder-ff6b35?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeltaDeFi Co-Founder"/></a>
-  <a href="https://github.com/sidan-lab"><img src="https://img.shields.io/badge/SIDAN%20Lab-Founder-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="SIDAN Lab Founder"/></a>
-</p>
+# Hinson Wong
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HinsonSIDAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/HinsonSIDAN"><img src="https://img.shields.io/twitter/follow/HinsonSIDAN?logo=twitter&style=flat" alt="Twitter Follow" /></a>
-</p>
+**Cardano Ambassador | DeFi Builder | Open Source Developer**
+
+[![Cardano Ambassador](https://img.shields.io/badge/Cardano-Ambassador-0033AD?style=flat-square&logo=cardano&logoColor=white)](https://cardano.org/ambassador/)
+[![DeltaDeFi](https://img.shields.io/badge/DeltaDeFi-Co--Founder-00D4AA?style=flat-square)](https://deltadefi.io)
+[![SIDAN Lab](https://img.shields.io/badge/SIDAN%20Lab-Founder-00B894?style=flat-square)](https://sidan.io)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+next-gen+DeFi+on+Cardano;Open+source+tools+for+blockchain+devs;Hydra-powered+trading+infrastructure" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+### About
 
-```typescript
-const hinson = {
-  role: ["Cardano Ambassador", "DeFi Builder", "Open Source Developer"],
-  organizations: {
-    deltadefi: "Co-Founder - Revolutionary DeFi on Cardano",
-    sidanLab: "Founder - Cardano Developer Tooling"
-  },
-  expertise: [
-    "Smart Contract Development",
-    "DeFi Protocol Design",
-    "Cardano Transaction Building",
-    "Functional Programming"
-  ],
-  currentFocus: "Building next-gen DeFi infrastructure on Cardano",
-  passion: "Making blockchain development accessible to everyone"
-};
+Building the future of decentralized finance on Cardano through open-source tooling and innovative protocol design.
+
+**Current Focus:**
+- High-frequency trading infrastructure via Hydra L2
+- Multi-language SDKs for Cardano development
+- Developer education and ecosystem growth
+
+**Background:**
+- Plutus Pioneer Program Graduate
+- Cardano DRep (Governance Delegate)
+- Hong Kong-based builder
+
+</td>
+<td width="50%" valign="top">
+
+### Tech Stack
+
+```
+Smart Contracts  Aiken | Plutus | Helios
+Backend          Rust | Go | TypeScript
+Frontend         React | Next.js
+Blockchain       Cardano | Hydra L2
+Infrastructure   Docker | Nix | GitHub Actions
 ```
 
-<br clear="right"/>
-
----
-
-## Cardano Ambassador
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cardano-Ambassador%20Program-0033AD?style=for-the-badge&logo=cardano&logoColor=white" height="35"/>
+<p>
+<img src="https://skillicons.dev/icons?i=rust,go,ts,python,haskell,react&theme=light" height="32"/>
 </p>
 
-As a **Cardano Ambassador**, I'm dedicated to:
-
-- Advocating for Cardano ecosystem growth and adoption
-- Educating developers on Cardano smart contract development
-- Building open-source tools that lower barriers to entry
-- Fostering community collaboration across the globe
-- Contributing to Cardano's decentralized governance as a DRep
+</td>
+</tr>
+</table>
 
 ---
 
-## Organizations
+### Organizations
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="50%">
 
-### DeltaDeFi Protocol
-
 <a href="https://github.com/deltadefi-protocol">
-<img src="https://img.shields.io/badge/44+%20Repositories-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/DeltaDeFi-Protocol-00D4AA?style=for-the-badge&logoColor=white" height="28"/>
 </a>
 
-**Next-Generation DeFi on Cardano**
+**Cardano Trading Infrastructure**
 
-Building innovative decentralized finance solutions including:
-- Order Book Engine
-- Hydra-powered Trading
-- Multi-language SDKs (TypeScript, Python, Rust)
-- Smart Contract Infrastructure
+Instant order confirmation, zero-fee trading,
+API-first design powered by Hydra L2
 
-<a href="https://deltadefi.io">Website</a> | <a href="https://twitter.com/deltadefi">Twitter</a>
+[Website](https://deltadefi.io) | [App](https://alpha-app.deltadefi.io) | [Docs](https://docs.deltadefi.io)
 
 </td>
 <td align="center" width="50%">
 
-### SIDAN Lab
-
 <a href="https://github.com/sidan-lab">
-<img src="https://img.shields.io/badge/35+%20Repositories-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/SIDAN-Lab-00B894?style=for-the-badge&logoColor=white" height="28"/>
 </a>
 
 **Cardano Developer Tooling**
 
-Creating essential open-source infrastructure:
-- **Whisky** - Rust transaction builder
-- **Vodka** - Aiken smart contract utilities
-- **Rum** - Go Cardano library
-- **Gin** - Python Cardano library
+Open-source libraries making blockchain
+development accessible to everyone
 
-<a href="https://github.com/sidan-lab">Explore Tools</a>
+[Website](https://sidan.io) | [GitHub](https://github.com/sidan-lab)
 
 </td>
 </tr>
@@ -102,162 +94,53 @@ Creating essential open-source infrastructure:
 
 ---
 
-## Open Source Contributions
+### Open Source
 
-### The Cardano Bar Series
+**The Cardano Bar** — A complete toolkit for Cardano development
 
-<p align="center">
-<em>"A full bar of Cardano development tools - take your pick!"</em>
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://github.com/sidan-lab/whisky">
-<img src="https://img.shields.io/badge/Whisky-Rust-dea584?style=for-the-badge&logo=rust&logoColor=white" height="30"/>
-</a>
-<br/>
-<sub><b>Transaction Builder</b></sub>
-<br/>
-<img src="https://img.shields.io/github/stars/sidan-lab/whisky?style=social" />
-</td>
-<td align="center">
-<a href="https://github.com/sidan-lab/vodka">
-<img src="https://img.shields.io/badge/Vodka-Aiken-00d4aa?style=for-the-badge" height="30"/>
-</a>
-<br/>
-<sub><b>Smart Contract Utils</b></sub>
-<br/>
-<img src="https://img.shields.io/github/stars/sidan-lab/vodka?style=social" />
-</td>
-<td align="center">
-<a href="https://github.com/sidan-lab/rum">
-<img src="https://img.shields.io/badge/Rum-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30"/>
-</a>
-<br/>
-<sub><b>Go Library</b></sub>
-<br/>
-<img src="https://img.shields.io/github/stars/sidan-lab/rum?style=social" />
-</td>
-<td align="center">
-<a href="https://github.com/sidan-lab/gin">
-<img src="https://img.shields.io/badge/Gin-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-</a>
-<br/>
-<sub><b>Python Library</b></sub>
-<br/>
-<img src="https://img.shields.io/github/stars/sidan-lab/gin?style=social" />
-</td>
-</tr>
-</table>
-
-### Featured Projects
-
-<p align="center">
-<a href="https://github.com/MeshJS/mesh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeshJS&repo=mesh&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sidan-lab/whisky">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidan-lab&repo=whisky&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/sidan-lab/vodka">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidan-lab&repo=vodka&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sidan-lab/cardano-bar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidan-lab&repo=cardano-bar&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=rust,go,ts,python,haskell,react,nextjs,nodejs,docker,git&theme=dark" />
-</p>
+| Library | Language | Description | |
+|---------|----------|-------------|---|
+| [**Whisky**](https://github.com/sidan-lab/whisky) | Rust | Transaction building & serialization | ![Stars](https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA) |
+| [**Vodka**](https://github.com/sidan-lab/vodka) | Aiken | Smart contract utilities & testing | ![Stars](https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA) |
+| [**Rum**](https://github.com/sidan-lab/rum) | Go | Golang Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA) |
+| [**Gin**](https://github.com/sidan-lab/gin) | Python | Python Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA) |
+| [**Cardano Bar**](https://github.com/sidan-lab/cardano-bar) | Multi | Cross-framework dev tools | ![Stars](https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA) |
 
 <details>
-<summary><b>Expand Full Stack</b></summary>
+<summary><b>More Projects</b></summary>
 <br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Smart Contracts** | Aiken, Plutus (Haskell), Helios |
-| **Backend** | Rust, Go, TypeScript, Python |
-| **Frontend** | React, Next.js, TypeScript |
-| **Blockchain** | Cardano, Hydra L2 |
-| **DevOps** | Docker, GitHub Actions, Nix |
-| **Databases** | PostgreSQL, Redis |
+| Project | Description |
+|---------|-------------|
+| [MeshJS/mesh](https://github.com/MeshJS/mesh) | Core contributor - Web3 SDK for Cardano |
+| [deltadefi-scripts](https://github.com/deltadefi-protocol/deltadefi-scripts) | Aiken smart contracts for DeltaDeFi |
+| [python-sdk](https://github.com/deltadefi-protocol/python-sdk) | DeltaDeFi Python SDK |
+| [rust-sdk](https://github.com/deltadefi-protocol/rust-sdk) | DeltaDeFi Rust SDK |
 
 </details>
 
 ---
 
-## GitHub Analytics
+### Stats
 
 <p align="center">
-<a href="https://github.com/HinsonSIDAN">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinsonSIDAN&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HinsonSIDAN&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HinsonSIDAN&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D4AA&icon_color=00B894&text_color=888888&hide_title=true&hide_rank=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&hide_border=true&bg_color=00000000&title_color=00D4AA&text_color=888888&hide_title=true" height="150"/>
 </p>
 
 ---
 
-## Cardano Journey
+<div align="center">
 
-```
-2022  Plutus Pioneer Program Graduate
-      |
-2022  Founded SIDAN Lab
-      |
-2023  Launched Whisky - Rust Transaction Builder
-      |
-2024  Co-founded DeltaDeFi Protocol
-      |
-2024  Became Cardano DRep
-      |
-2025  Cardano Ambassador
-      |
-NOW   Building the future of DeFi on Cardano
-```
+### Connect
 
----
+[![Twitter](https://img.shields.io/badge/@HinsonSIDAN-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/HinsonSIDAN)
+[![DeltaDeFi](https://img.shields.io/badge/@DeltaDeFi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/DeltaDeFi)
+[![GitHub](https://img.shields.io/badge/HinsonSIDAN-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HinsonSIDAN)
+[![Email](https://img.shields.io/badge/contact@deltadefi.io-00D4AA?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@deltadefi.io)
 
-## Let's Connect
+<br/>
 
-<p align="center">
-<a href="https://twitter.com/HinsonSIDAN">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://twitter.com/deltadefi">
-  <img src="https://img.shields.io/badge/DeltaDeFi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://github.com/HinsonSIDAN">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/HinsonSIDAN/hinsonsidan/issues">
-  <img src="https://img.shields.io/badge/Ask%20Me%20Anything-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+*"Open source is not just about code — it's about building communities."*
 
-<p align="center">
-<em>"Open source is not just about code - it's about building communities and empowering developers worldwide."</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
-</p>
+</div>
