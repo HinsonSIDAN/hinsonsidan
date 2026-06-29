@@ -1,12 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1117,75:00D4AA,100:00B894&height=180&section=header&text=Hinson%20Wong&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontFamily=Orbitron&desc=Cardano%20Ambassador%20|%20DeFi%20Builder%20|%20Open%20Source%20Developer&descSize=16&descAlignY=62&descColor=c9d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1117,75:34D3FF,100:0891B2&height=180&section=header&text=Hinson%20Wong&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontFamily=Orbitron&desc=Builder%20|%20AI%20|%20DeFi%20|%20Open%20Source&descSize=16&descAlignY=62&descColor=c9d1d9"/>
 
 <div align="center">
 
+<a href="https://sidan.ai"><img src="https://img.shields.io/badge/SIDAN%20AI-Cooking-34D3FF?style=flat-square" alt="SIDAN AI"/></a>
+<a href="https://deltadefi.io"><img src="https://img.shields.io/badge/DeltaDeFi-Co--Founder-0891B2?style=flat-square" alt="DeltaDeFi Co-Founder"/></a>
+<a href="https://sidan.io"><img src="https://img.shields.io/badge/SIDAN%20Lab-Co--Founder-0891B2?style=flat-square" alt="SIDAN Lab Co-Founder"/></a>
 <a href="https://cardano.org/ambassador/"><img src="https://img.shields.io/badge/Cardano-Ambassador-0033AD?style=flat-square&logo=cardano&logoColor=white" alt="Cardano Ambassador"/></a>
-<a href="https://deltadefi.io"><img src="https://img.shields.io/badge/DeltaDeFi-Co--Founder-00D4AA?style=flat-square" alt="DeltaDeFi Co-Founder"/></a>
-<a href="https://sidan.io"><img src="https://img.shields.io/badge/SIDAN%20Lab-Co--Founder-00B894?style=flat-square" alt="SIDAN Lab Co-Founder"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Building+next-gen+DeFi+on+Cardano;Open+source+tools+for+blockchain+devs;Hydra-powered+trading+infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=1000&color=34D3FF&center=true&vCenter=true&width=550&lines=Builder+of+products+and+open+source;Now+focused+on+AI+at+SIDAN;From+DeFi+infrastructure+to+AI+agents" alt="Typing SVG" />
 
 </div>
 
@@ -18,9 +19,10 @@
 
 <h3>About</h3>
 
-<p>CFA charterholder turned DeFi builder. Building next-gen trading infrastructure on Cardano.</p>
+<p>Builder who can't stop shipping — products, open-source, and companies. Now all-in on AI.</p>
 
 <ul>
+<li><b>Now building</b> in AI at <a href="https://sidan.ai">SIDAN AI</a></li>
 <li>Co-founder at <a href="https://deltadefi.io">DeltaDeFi</a> & <a href="https://sidan.io">SIDAN Lab</a></li>
 <li>Cardano Ambassador & DRep</li>
 <li>Draper University Alumni</li>
@@ -33,11 +35,11 @@
 <h3>Tech Stack</h3>
 
 <pre>
-Smart Contracts  Aiken | Plutus
-Backend          Rust | Go | TypeScript
-Frontend         React | Next.js
-Blockchain       Cardano | Hydra L2
-Infrastructure   Docker | GitHub Actions
+AI / Agents  LLMs | RAG | MCP
+Backend      Rust | Go | TS
+Frontend     React | Next.js
+Contracts    Aiken | Plutus
+Infra        Docker | Actions
 </pre>
 
 <p>
@@ -50,30 +52,41 @@ Infrastructure   Docker | GitHub Actions
 
 <hr/>
 
-<h3>Organizations</h3>
+<h3>Building</h3>
 
 <table>
 <tr>
-<td align="center" valign="top">
+<td width="34%" align="center" valign="top">
 <br/>
-<a href="https://github.com/deltadefi-protocol"><img src="https://img.shields.io/badge/DeltaDeFi-Protocol-00D4AA?style=for-the-badge&logoColor=white" height="28"/></a>
+<a href="https://sidan.ai"><img src="assets/sidanclaw.png" width="88" alt="sidanclaw"/></a>
 <br/><br/>
-<b>Cardano Trading Infrastructure</b>
+<a href="https://sidan.ai"><img src="https://img.shields.io/badge/SIDAN-AI-34D3FF?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
-Instant order confirmation, zero-fee trading, API-first design powered by Hydra L2
+Building the infrastructure to run my stuff
 <br/><br/>
-<a href="https://deltadefi.io">Website</a> | <a href="https://app.deltadefi.io">App</a> | <a href="https://docs.deltadefi.io">Docs</a>
+<a href="https://sidan.ai">Website</a>
 <br/><br/>
 </td>
-<td align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br/>
-<a href="https://github.com/sidan-lab"><img src="https://img.shields.io/badge/SIDAN-Lab-00B894?style=for-the-badge&logoColor=white" height="28"/></a>
+<a href="https://deltadefi.io"><img src="assets/deltadefi.png" width="88" alt="DeltaDeFi"/></a>
 <br/><br/>
-<b>Cardano Developer Tooling</b>
+<a href="https://github.com/deltadefi-protocol"><img src="https://img.shields.io/badge/DeltaDeFi-Protocol-0891B2?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
-Open-source libraries making blockchain development accessible to everyone
+Building a trading system serious enough to trust your money with
 <br/><br/>
-<a href="https://sidan.io">Website</a> | <a href="https://github.com/sidan-lab">GitHub</a>
+<a href="https://deltadefi.io">Website</a>
+<br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<br/>
+<a href="https://sidan.io"><img src="assets/sidan-lab.png" width="88" alt="SIDAN Lab"/></a>
+<br/><br/>
+<a href="https://github.com/sidan-lab"><img src="https://img.shields.io/badge/SIDAN-Lab-0891B2?style=for-the-badge&logoColor=white" height="28"/></a>
+<br/><br/>
+Building open source, and the community around it
+<br/><br/>
+<a href="https://sidan.io">Website</a>
 <br/><br/>
 </td>
 </tr>
@@ -83,7 +96,7 @@ Open-source libraries making blockchain development accessible to everyone
 
 <h3>Open Source</h3>
 
-<p><b>The Cardano Bar</b> — A complete toolkit for Cardano development</p>
+<p>Open-source projects I build and contribute to — from AI tooling to the Cardano stack.</p>
 
 <table>
 <thead>
@@ -96,40 +109,28 @@ Open-source libraries making blockchain development accessible to everyone
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/sidanclaw/sidanclaw"><b>sidanclaw</b></a></td>
+<td>TypeScript</td>
+<td>Brain, agents and workflows — a local framework to automate your work</td>
+<td><img src="https://img.shields.io/github/stars/sidanclaw/sidanclaw?style=flat-square&color=34D3FF&labelColor=0d1117" alt="Stars"/></td>
+</tr>
+<tr>
 <td><a href="https://github.com/MeshJS/mesh"><b>Mesh</b></a></td>
 <td>TypeScript</td>
 <td>Open-source Web3 SDK for building applications on Cardano blockchain</td>
-<td><img src="https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
+<td><img src="https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=34D3FF&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/whisky"><b>Whisky</b></a></td>
 <td>Rust</td>
 <td>Cardano transaction building, serialization and wallet management library</td>
-<td><img src="https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
+<td><img src="https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=34D3FF&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/sidan-lab/vodka"><b>Vodka</b></a></td>
 <td>Aiken</td>
 <td>Smart contract utilities, testing helpers and validation functions</td>
-<td><img src="https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/sidan-lab/rum"><b>Rum</b></a></td>
-<td>Go</td>
-<td>Golang library for Cardano development, compatible with Mesh types</td>
-<td><img src="https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/sidan-lab/gin"><b>Gin</b></a></td>
-<td>Python</td>
-<td>Python library for Cardano development, compatible with Mesh types</td>
-<td><img src="https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/sidan-lab/cardano-bar"><b>Cardano Bar</b></a></td>
-<td>Multi</td>
-<td>Cross-framework development tools and utilities for Cardano ecosystem</td>
-<td><img src="https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA&labelColor=0d1117" alt="Stars"/></td>
+<td><img src="https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=34D3FF&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 </tbody>
 </table>
@@ -139,12 +140,12 @@ Open-source libraries making blockchain development accessible to everyone
 <h3>Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="57.5%"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HinsonSIDAN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=34D3FF&icon_color=0891B2&text_color=c9d1d9&include_all_commits=true&count_private=true" width="57.5%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HinsonSIDAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=34D3FF&text_color=c9d1d9&langs_count=8" width="42%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HinsonSIDAN&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00B894&point=ffffff&area=true&area_color=00D4AA" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HinsonSIDAN&theme=react-dark&hide_border=true&bg_color=0d1117&color=34D3FF&line=0891B2&point=ffffff&area=true&area_color=34D3FF" width="100%"/>
 </p>
 
 <hr/>
@@ -154,10 +155,9 @@ Open-source libraries making blockchain development accessible to everyone
 <h3>Connect</h3>
 
 <a href="https://x.com/HinsonSIDAN"><img src="https://img.shields.io/badge/@HinsonSIDAN-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://x.com/sidanclaw"><img src="https://img.shields.io/badge/@sidanclaw-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="sidanclaw"/></a>
 <a href="https://x.com/DeltaDeFi"><img src="https://img.shields.io/badge/@DeltaDeFi-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="DeltaDeFi"/></a>
 <a href="https://x.com/sidan_lab"><img src="https://img.shields.io/badge/@sidan__lab-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="SIDAN Lab"/></a>
-<a href="https://github.com/HinsonSIDAN"><img src="https://img.shields.io/badge/HinsonSIDAN-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:contact@deltadefi.io"><img src="https://img.shields.io/badge/contact@deltadefi.io-00D4AA?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -165,4 +165,4 @@ Open-source libraries making blockchain development accessible to everyone
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,50:00D4AA,100:0d1117&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:34D3FF,100:0d1117&height=80&section=footer"/>
