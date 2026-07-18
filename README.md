@@ -58,7 +58,7 @@ Infra        Docker | Actions
 <tr>
 <td width="34%" align="center" valign="top">
 <br/>
-<a href="https://sidan.ai"><img src="assets/sidanclaw.png" width="88" alt="sidanclaw"/></a>
+<a href="https://sidan.ai"><img src="assets/use-brian.png" width="88" alt="Use Brian"/></a>
 <br/><br/>
 <a href="https://sidan.ai"><img src="https://img.shields.io/badge/SIDAN-AI-34D3FF?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
@@ -109,10 +109,10 @@ Building open source, and the community around it
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/sidanclaw/sidanclaw"><b>sidanclaw</b></a></td>
+<td><a href="https://github.com/use-brian/use-brian"><b>Use Brian</b></a></td>
 <td>TypeScript</td>
-<td>Brain, agents and workflows — a local framework to automate your work</td>
-<td><img src="https://img.shields.io/github/stars/sidanclaw/sidanclaw?style=flat-square&color=34D3FF&labelColor=0d1117" alt="Stars"/></td>
+<td>Brain, agent, workflows, and docs — a local framework to automate your work</td>
+<td><img src="https://img.shields.io/github/stars/use-brian/use-brian?style=flat-square&color=34D3FF&labelColor=0d1117" alt="Stars"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/MeshJS/mesh"><b>Mesh</b></a></td>
