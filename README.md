@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<a href="https://sidan.ai"><img src="https://img.shields.io/badge/SIDAN%20AI-Cooking-34D3FF?style=flat-square" alt="SIDAN AI"/></a>
+<a href="https://usebrian.ai"><img src="https://img.shields.io/badge/Use%20Brian-Cooking-34D3FF?style=flat-square" alt="Use Brian"/></a>
 <a href="https://deltadefi.io"><img src="https://img.shields.io/badge/DeltaDeFi-Co--Founder-0891B2?style=flat-square" alt="DeltaDeFi Co-Founder"/></a>
 <a href="https://sidan.io"><img src="https://img.shields.io/badge/SIDAN%20Lab-Co--Founder-0891B2?style=flat-square" alt="SIDAN Lab Co-Founder"/></a>
 <a href="https://cardano.org/ambassador/"><img src="https://img.shields.io/badge/Cardano-Ambassador-0033AD?style=flat-square&logo=cardano&logoColor=white" alt="Cardano Ambassador"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=1000&color=34D3FF&center=true&vCenter=true&width=550&lines=Builder+of+products+and+open+source;Now+focused+on+AI+at+SIDAN;From+DeFi+infrastructure+to+AI+agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=1000&color=34D3FF&center=true&vCenter=true&width=550&lines=Builder+of+products+and+open+source;Now+building+Use+Brian;From+DeFi+infrastructure+to+AI+agents" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 <p>Builder who can't stop shipping — products, open-source, and companies. Now all-in on AI.</p>
 
 <ul>
-<li><b>Now building</b> in AI at <a href="https://sidan.ai">SIDAN AI</a></li>
+<li><b>Now building</b> <a href="https://usebrian.ai">Use Brian</a> — your company brain</li>
 <li>Co-founder at <a href="https://deltadefi.io">DeltaDeFi</a> & <a href="https://sidan.io">SIDAN Lab</a></li>
 <li>Cardano Ambassador & DRep</li>
 <li>Draper University Alumni</li>
@@ -58,13 +58,13 @@ Infra        Docker | Actions
 <tr>
 <td width="34%" align="center" valign="top">
 <br/>
-<a href="https://sidan.ai"><img src="assets/use-brian.png" width="88" alt="Use Brian"/></a>
+<a href="https://usebrian.ai"><img src="assets/use-brian.png" width="88" alt="Use Brian"/></a>
 <br/><br/>
-<a href="https://sidan.ai"><img src="https://img.shields.io/badge/SIDAN-AI-34D3FF?style=for-the-badge&logoColor=white" height="28"/></a>
+<a href="https://github.com/use-brian"><img src="https://img.shields.io/badge/Use-Brian-34D3FF?style=for-the-badge&logoColor=white" height="28"/></a>
 <br/><br/>
 Building the infrastructure to run my stuff
 <br/><br/>
-<a href="https://sidan.ai">Website</a>
+<a href="https://usebrian.ai">Website</a>
 <br/><br/>
 </td>
 <td width="33%" align="center" valign="top">
