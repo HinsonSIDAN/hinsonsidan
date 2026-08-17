@@ -23,6 +23,7 @@
   <b>Your company brain.</b> A local framework for company knowledge, AI agents, workflows, and documentation.
   <br/><br/>
   <a href="https://usebrian.ai">Website</a> · <a href="https://github.com/use-brian/use-brian">GitHub</a>
+  <a href="https://github.com/use-brian/use-brian"><img align="right" src="https://img.shields.io/github/stars/use-brian/use-brian?style=flat-square&color=34D3FF&labelColor=0d1117" height="18" alt="Use Brian stars"/></a>
 </td>
 <td width="35%" valign="top">
   <h3>Open source</h3>
