@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td width="16%" align="center">
-  <a href="https://usebrian.ai"><img src="assets/use-brian.png" width="112" alt="Use Brian"/></a>
+  <a href="https://usebrian.ai"><img src="https://usebrian.ai/icon.png" width="112" alt="Use Brian"/></a>
 </td>
 <td width="49%" valign="top">
   <h3><a href="https://usebrian.ai">Use Brian</a></h3>
